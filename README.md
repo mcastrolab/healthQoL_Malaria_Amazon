@@ -4,9 +4,9 @@
 Monica Viegas Andrade<sup>1,2</sup> Kenya Valeria Micaela de Sourza Noronha<sup>1,2</sup> Gilvan Ramalho Guedes1 Nayara Abreu Julião<sup>1,2</sup> Lucas Resende de Carvalo1 Aline de Souza<sup>1</sup> Valéria Andrade Silva1 Andre Soares Motta-Santos<sup>1,2</sup> Henrique Bracarense<sup>1</sup> Cássio Peterka<sup>3</sup> Marcia C. Castro<sup>4</sup>
 
 1 Center for Development and Regional Planning, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil
-<<br>2 Center for Health Technology Assessment, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil
-<<br>3 Ministry of Health, Brasília, DF, Brazil
-<<br>4 Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Boston, MA, USA
+<br>2 Center for Health Technology Assessment, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil
+<br>3 Ministry of Health, Brasília, DF, Brazil
+<br>4 Department of Global Health and Population, Harvard T.H. Chan School of Public Health, Boston, MA, USA
 
 
 ## Abstract
